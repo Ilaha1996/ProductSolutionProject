@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProductCA/1.0.0": {
+        "dependencies": {
+          "ProductBusiness": "1.0.0"
+        },
+        "runtime": {
+          "ProductCA.dll": {}
+        }
+      },
+      "PoductCore/1.0.0": {
+        "runtime": {
+          "PoductCore.dll": {}
+        }
+      },
+      "ProductBusiness/1.0.0": {
+        "dependencies": {
+          "ProductData": "1.0.0"
+        },
+        "runtime": {
+          "ProductBusiness.dll": {}
+        }
+      },
+      "ProductData/1.0.0": {
+        "dependencies": {
+          "PoductCore": "1.0.0"
+        },
+        "runtime": {
+          "ProductData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProductCA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PoductCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

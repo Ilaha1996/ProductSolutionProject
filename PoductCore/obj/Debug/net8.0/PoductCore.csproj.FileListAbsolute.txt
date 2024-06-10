@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\ProductSolution\PoductCore\bin\Debug\net8.0\PoductCore.deps.json
+C:\Users\USER\source\repos\ProductSolution\PoductCore\bin\Debug\net8.0\PoductCore.dll
+C:\Users\USER\source\repos\ProductSolution\PoductCore\bin\Debug\net8.0\PoductCore.pdb
+C:\Users\USER\source\repos\ProductSolution\PoductCore\obj\Debug\net8.0\PoductCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ProductSolution\PoductCore\obj\Debug\net8.0\PoductCore.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ProductSolution\PoductCore\obj\Debug\net8.0\PoductCore.AssemblyInfo.cs
+C:\Users\USER\source\repos\ProductSolution\PoductCore\obj\Debug\net8.0\PoductCore.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ProductSolution\PoductCore\obj\Debug\net8.0\PoductCore.dll
+C:\Users\USER\source\repos\ProductSolution\PoductCore\obj\Debug\net8.0\refint\PoductCore.dll
+C:\Users\USER\source\repos\ProductSolution\PoductCore\obj\Debug\net8.0\PoductCore.pdb
+C:\Users\USER\source\repos\ProductSolution\PoductCore\obj\Debug\net8.0\ref\PoductCore.dll

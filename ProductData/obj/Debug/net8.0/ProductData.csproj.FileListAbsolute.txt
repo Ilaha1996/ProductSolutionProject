@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\ProductSolution\ProductData\obj\Debug\net8.0\ProductData.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ProductSolution\ProductData\obj\Debug\net8.0\ProductData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ProductSolution\ProductData\obj\Debug\net8.0\ProductData.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ProductSolution\ProductData\obj\Debug\net8.0\ProductData.AssemblyInfo.cs
+C:\Users\USER\source\repos\ProductSolution\ProductData\obj\Debug\net8.0\ProductData.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ProductSolution\ProductData\bin\Debug\net8.0\ProductData.deps.json
+C:\Users\USER\source\repos\ProductSolution\ProductData\bin\Debug\net8.0\ProductData.dll
+C:\Users\USER\source\repos\ProductSolution\ProductData\bin\Debug\net8.0\ProductData.pdb
+C:\Users\USER\source\repos\ProductSolution\ProductData\bin\Debug\net8.0\PoductCore.dll
+C:\Users\USER\source\repos\ProductSolution\ProductData\bin\Debug\net8.0\PoductCore.pdb
+C:\Users\USER\source\repos\ProductSolution\ProductData\obj\Debug\net8.0\ProductD.1C60C449.Up2Date
+C:\Users\USER\source\repos\ProductSolution\ProductData\obj\Debug\net8.0\ProductData.dll
+C:\Users\USER\source\repos\ProductSolution\ProductData\obj\Debug\net8.0\refint\ProductData.dll
+C:\Users\USER\source\repos\ProductSolution\ProductData\obj\Debug\net8.0\ProductData.pdb
+C:\Users\USER\source\repos\ProductSolution\ProductData\obj\Debug\net8.0\ref\ProductData.dll

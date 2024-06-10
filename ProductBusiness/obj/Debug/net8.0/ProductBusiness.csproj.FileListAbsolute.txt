@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\ProductSolution\ProductBusiness\bin\Debug\net8.0\ProductBusiness.deps.json
+C:\Users\USER\source\repos\ProductSolution\ProductBusiness\bin\Debug\net8.0\ProductBusiness.dll
+C:\Users\USER\source\repos\ProductSolution\ProductBusiness\bin\Debug\net8.0\ProductBusiness.pdb
+C:\Users\USER\source\repos\ProductSolution\ProductBusiness\obj\Debug\net8.0\ProductBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ProductSolution\ProductBusiness\obj\Debug\net8.0\ProductBusiness.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ProductSolution\ProductBusiness\obj\Debug\net8.0\ProductBusiness.AssemblyInfo.cs
+C:\Users\USER\source\repos\ProductSolution\ProductBusiness\obj\Debug\net8.0\ProductBusiness.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ProductSolution\ProductBusiness\obj\Debug\net8.0\ProductBusiness.dll
+C:\Users\USER\source\repos\ProductSolution\ProductBusiness\obj\Debug\net8.0\refint\ProductBusiness.dll
+C:\Users\USER\source\repos\ProductSolution\ProductBusiness\obj\Debug\net8.0\ProductBusiness.pdb
+C:\Users\USER\source\repos\ProductSolution\ProductBusiness\obj\Debug\net8.0\ref\ProductBusiness.dll
+C:\Users\USER\source\repos\ProductSolution\ProductBusiness\obj\Debug\net8.0\ProductBusiness.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ProductSolution\ProductBusiness\bin\Debug\net8.0\PoductCore.dll
+C:\Users\USER\source\repos\ProductSolution\ProductBusiness\bin\Debug\net8.0\ProductData.dll
+C:\Users\USER\source\repos\ProductSolution\ProductBusiness\bin\Debug\net8.0\ProductData.pdb
+C:\Users\USER\source\repos\ProductSolution\ProductBusiness\bin\Debug\net8.0\PoductCore.pdb
+C:\Users\USER\source\repos\ProductSolution\ProductBusiness\obj\Debug\net8.0\ProductB.7FDA2E3D.Up2Date
